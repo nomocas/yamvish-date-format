@@ -1,0 +1,23 @@
+{
+  "name": "yamvish-date-format",
+  "version": "0.1.0",
+  "description": "date format tools for yamvish expression's filter",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nomocas/yamvish-date-format.git"
+  },
+  "keywords": [
+    "date-format",
+    "yamvish"
+  ],
+  "author": "Gilles Coomans <gilles.coomans@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nomocas/yamvish-date-format/issues"
+  },
+  "homepage": "https://github.com/nomocas/yamvish-date-format#readme"
+}
