@@ -23,7 +23,7 @@ var view = new y.View({
 	}
 })
 // filter 'myArr' (from context of course) with RQL and store result in 'myFilteredArr' (in context of course)
-.div('{{ title }} - {{ date | dateFormat('dd/mm/yy') }}')
+.div('{{ title }} - {{ date | dateFormat("dd/mm/yy") }}')
 // mount view somewhere
 .mount('#anID');
 ```
