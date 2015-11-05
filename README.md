@@ -1,6 +1,7 @@
 # yamvish-date-format
 
 [dateFormat](http://stevenlevithan.com/assets/misc/date.format.js) plugin for [yamvish](https://github.com/nomocas/yamvish).
+(format syntax docs : http://blog.stevenlevithan.com/archives/date-time-format)
 
 ## install
 
