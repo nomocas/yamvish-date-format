@@ -2,7 +2,7 @@
 (function() {
 	'use strict';
 	var y = require('yamvish'),
-		dateFormat = require('./lib/date-format');
+		dateFormat = require('nomocas-utils/lib/date-format');
 
 	y.dateFormat = dateFormat;
 	y.Filter.prototype.date = function(format, utc) {
