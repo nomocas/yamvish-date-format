@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/nomocas/yamvish-date-format/issues"
   },
+  "dependencies": {
+    "nomocas-utils": "^0.0.6"
+  },
   "homepage": "https://github.com/nomocas/yamvish-date-format#readme"
 }
